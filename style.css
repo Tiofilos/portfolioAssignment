@@ -234,7 +234,7 @@ section .titl-cont::after{
     height: 450px;
     width:  450px;
     object-fit: cover;
-    border-radius: 100px;
+    border-radius: 200px;
 }
 .about .abt-content .right{
     width: 55%;
